@@ -171,7 +171,7 @@ $(document).ready(function(){
 			{
 				load_cart_data();
 				$('#cart-popover').popover('hide');
-				alert("Your Cart has been clear");
+				alert("Your Cart has been cleared");
 			}
 		});
 	});

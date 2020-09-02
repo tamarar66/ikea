@@ -24,7 +24,7 @@
 			<br />
 			
 			
-				<h2 style="color: yellow; text-align: center;">Namestaj ce biti isporucen za 3 dana.</h2>
+				<h2 style="color: yellow; text-align: center;">Namestaj ce biti isporucen za 3 dana!!!</h2>
 			
 
 			

@@ -30,6 +30,7 @@ include("konekcija.php");
                 }
 
                 td {
+                  
                   text-align: left;
                   padding: 8px;
 

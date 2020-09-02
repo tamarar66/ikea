@@ -113,7 +113,7 @@ $temperatura = $parsiran_json->data->current_condition[0]->temp_C;
 
   ?>
 
-<p style="text-align: center;">Trenutna temperatura je <?php echo $temperatura;?> C.</p>
+<p style="text-align: center;">Trenutna temperatura u Beogradu je <?php echo $temperatura;?> C.</p>
 
 
 	</body>

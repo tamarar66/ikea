@@ -18,12 +18,15 @@ include("konekcija.php");
 		<link rel="stylesheet" href="css/bootstrap.min.css" />
 		<script src="js/bootstrap.min.js"></script>
 
+
                 
 		<style>
+   
                 table {
                   border-collapse: collapse;
                   width: 100%;
                   margin-top: 30px;
+                  background-color: blue;
                 }
 
                 td {
@@ -50,6 +53,7 @@ include("konekcija.php");
 		</style>
 	</head>
 	<body >
+ 
 
 		<?php
 //Zameniti URL putanjom serverskog dela REST servisa
